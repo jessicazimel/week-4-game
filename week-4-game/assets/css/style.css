@@ -1,0 +1,59 @@
+
+
+h1{
+
+    text-align: center;
+
+    font-family: 'Stencil Std', fantasy;
+  
+}
+
+p{
+    
+    text-align: center;
+    font-family: 'Stencil Std', fantasy;
+
+}
+
+.display-4{
+
+    font-size: 100px;
+}
+
+
+.images{
+display: flex;
+justify-content:space-around;
+align-items: center;
+padding: 20px;
+margin: 50px;
+
+}
+
+.crystal{
+
+    border: .5px solid rgb(171, 171, 174);
+    border-radius: 3px;
+    height:200px;
+    width: 200px;
+    box-shadow: 3px 3px rgb(126, 127, 128);
+}
+
+.jumbotron{
+    height:350px;
+}
+
+.background{
+
+    background-image: url("https://s3.envato.com/files/161464875/Crystal%20Background%20preview%20image.jpg");
+    background-size: cover;
+    
+}
+
+h2{
+
+    margin:50px;
+   color: violet;
+   letter-spacing: 2px;
+
+}
